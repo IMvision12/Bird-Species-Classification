@@ -8,4 +8,7 @@ Here we have 285 bird species which we are going to classify.
 ## Dataset
 The Dataset was taken from kaggle : https://www.kaggle.com/gpiosenka/100-bird-species
 
-## Approch Used : Transfer Learning
+## Approch Used : 
+Transfer Learning : Used 2 pretrained Models
+1. Resnet50V2
+2. VGG16
