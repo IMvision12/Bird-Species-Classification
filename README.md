@@ -1,5 +1,6 @@
 # Bird-Species-Classification
-<img src="https://miro.medium.com/max/670/1*leLKD1K6sMtuqr9KK8RaJg.png" width=300 height=300>\
+<img src="https://miro.medium.com/max/670/1*leLKD1K6sMtuqr9KK8RaJg.png" width=300 height=300>
+
 
 ## Overview
 Image Classification is a fundamental task that attempts to comprehend an entire image as a whole. The goal is to classify the image by assigning it to a specific label. Typically, Image Classification refers to images in which only one object appears and is analyzed.
