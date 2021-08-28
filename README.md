@@ -12,3 +12,6 @@ The Dataset was taken from kaggle : https://www.kaggle.com/gpiosenka/100-bird-sp
 Transfer Learning : Used 2 pretrained Models
 1. Resnet50V2
 2. VGG16
+
+## Accuracy of Models
+1. Resnet50V2 : 
