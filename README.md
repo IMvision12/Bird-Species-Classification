@@ -21,4 +21,4 @@ Resnet101V2 | 98.88%
 VGG16       | 82.41%
 
 ## Libraries Used:
-<img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">\
+<img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png" width=100 height=100>\
