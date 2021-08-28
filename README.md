@@ -14,10 +14,11 @@ Transfer Learning : Used 2 pretrained Models
 2. VGG16
 
 ## Accuracy of Models
-1. Resnet101V2 : 98.88%
-2. VGG16 : 82.41 
 
 Models      | Accuracy
 ------------| -------------
 Resnet101V2 | 98.88%
 VGG16       | 82.41%
+
+## Libraries Used:
+<img src="https://cdn-images-1.medium.com/max/1200/1*iDQvKoz7gGHc6YXqvqWWZQ.png">\
